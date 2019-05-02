@@ -186,7 +186,7 @@ insert into blood_inventory_storage values (1, 'B-', 200);
 insert into blood_inventory_storage values (1, 'AB+', 200);
 insert into blood_inventory_storage values (1, 'AB-', 200);
 insert into blood_inventory_storage values (1, 'O+', 200);
-insert into blood_inventory_storage values (1, 'O-', 2000);
+insert into blood_inventory_storage values (1, 'O-', 200);
 
 insert into blood_inventory_storage values (2, 'A+', 200);
 insert into blood_inventory_storage values (2, 'A-', 200);
